@@ -39,5 +39,5 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/placement-prediction.git
-   cd placement-prediction
+   git clone https://github.com/SahashRaee/Simple-End-to-End-ML-Project.git
+   cd Simple-End-to-End-ML-Project
