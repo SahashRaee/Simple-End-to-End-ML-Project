@@ -33,7 +33,7 @@ The dataset used in this project contains the following columns:
 - **Name**: Names of the students (not used in prediction).
 - **Placement Status**: Indicates whether the student was placed (Yes/No).
 
-You can download the dataset from [this link](#) (insert the actual link to the dataset).
+You can download the dataset from [this link]() .
 
 ## Installation
 To run this project, follow these steps:
