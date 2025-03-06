@@ -41,3 +41,12 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/SahashRaee/Simple-End-to-End-ML-Project.git
    cd Simple-End-to-End-ML-Project
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+## Running web application
+   ```bash
+   python3 app.py
+
