@@ -1,7 +1,7 @@
 # Placement Prediction Model
 
 ## Overview
-This project aims to build a machine learning model that predicts whether students will be placed based on their CGPA. The dataset used for this project is called "Placement Seriously," which contains information about students' CGPA and their placement status.
+This project aims to build a simple machine learning model with deployment  that predicts whether students will be placed based on their CGPA. The dataset used for this project is a toy dataset " which contains information about student's CGPA and their placement status.
 
 ## Table of Contents
 - [Features](#features)
@@ -10,12 +10,11 @@ This project aims to build a machine learning model that predicts whether studen
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+
 
 ## Features
 - Predicts placement status based on CGPA.
-- Data preprocessing and exploratory data analysis (EDA).
+- Data preprocessing and exploratory data analysis .
 - Logistic regression model for classification.
 - Integration with a web application for user input.
 
@@ -33,7 +32,7 @@ The dataset used in this project contains the following columns:
 - **Name**: Names of the students (not used in prediction).
 - **Placement Status**: Indicates whether the student was placed (Yes/No).
 
-You can download the dataset from [this link]() .
+The dataset can be downloaded from [here](https://github.com/SahashRaee/Simple-End-to-End-ML-Project/blob/main/placement.csv) .
 
 ## Installation
 To run this project, follow these steps:
