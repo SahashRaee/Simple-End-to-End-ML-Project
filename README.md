@@ -8,8 +8,8 @@ This project aims to build a simple machine learning model with deployment  that
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Evaluation](#model-evaluation)
+- [Running web application ](#usage)
+
 
 
 ## Features
