@@ -32,7 +32,7 @@ The dataset used in this project contains the following columns:
 - **Name**: Names of the students (not used in prediction).
 - **Placement Status**: Indicates whether the student was placed (Yes/No).
 
-The dataset can be downloaded from [here](https://github.com/SahashRaee/Simple-End-to-End-ML-Project/blob/main/placement.csv) .
+The dataset can be downloaded from [here](https://github.com/SahashRaee/Simple-End-to-End-ML-Project/blob/main/placement_dataset.csv) .
 
 ## Installation
 To run this project, follow these steps:
