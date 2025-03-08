@@ -1,7 +1,7 @@
 # Placement Prediction Model
 
 ## Overview
-This project aims to build a simple machine learning model with deployment  that predicts whether students will be placed based on their CGPA. The dataset used for this project is a toy dataset " which contains information about student's CGPA and their placement status.
+This project aims to build a simple machine learning model with deployment  that predicts whether students will be placed based on their CGPA. The dataset used for this project is a toy dataset which contains information about student's CGPA and their placement status.
 
 ## Table of Contents
 - [Features](#features)
